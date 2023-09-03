@@ -176,7 +176,7 @@ int main() {
             cout << "1. Agregar al inicio" << endl;
             cout << "2. Agregar al final" << endl;
             cout << "3. Agregar en un espacio especifico" << endl;
-            cout << "0. Regresar al menú anterior" << endl << endl;
+            cout << "0. Regresar al menÃº anterior" << endl << endl;
             cin >> forma;
 
             switch (forma) {
