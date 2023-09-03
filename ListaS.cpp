@@ -161,7 +161,7 @@ int main() {
             cout << endl << "Escoja la forma de insertar datos:" << endl << endl;
             cout << "1. Agregar al inicio" << endl;
             cout << "2. Agregar al final" << endl;
-            cout << "3. Agregar en un espacio específico" << endl;
+            cout << "3. Agregar en un espacio especÃ­fico" << endl;
             cout << "0. Regresar al menu anterior" << endl << endl;
             cin >> forma;
 
@@ -216,7 +216,7 @@ int main() {
 
                     break;
                 } else {
-                    cout << endl << "Numero inválido.";
+                    cout << endl << "Numero invÃ¡lido.";
                 }
 
             case 0:
